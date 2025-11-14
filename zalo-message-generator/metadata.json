@@ -1,0 +1,5 @@
+{
+  "name": "Zalo Message Generator",
+  "description": "An application to generate personalized Zalo marketing messages based on a customer persona. Enter a description of your target customer, and the AI will create several message templates for you to use.",
+  "requestFramePermissions": []
+}
